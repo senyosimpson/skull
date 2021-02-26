@@ -1,2 +1,3 @@
-# haskell
+# Skull
+
 Playground for Haskell
